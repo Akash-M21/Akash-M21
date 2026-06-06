@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/devops-banner.png" width="100%" alt="AKASH M DevOps Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=80&section=header"/>
+
+<img src="./devops-banner.png" width="100%" alt="AKASH M DevOps Banner"/>
 
 # 👋 Hi, I'm AKASH M
 
