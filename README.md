@@ -1,4 +1,5 @@
 ```markdown
+```
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=80&section=header"/>
@@ -16,9 +17,7 @@ I work with AWS, Terraform, Kubernetes, Docker, Ansible, CI/CD pipelines, monito
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Akash-M21&label=Profile%20Views&color=0F62FE&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Akash-M21&label=Profile%20Views&color=0F62FE&style=flat"/>
 </p>
 
 ---
@@ -55,7 +54,7 @@ My goal is to become a well-rounded DevOps Engineer capable of designing, automa
 
 # 🏆 Featured Projects
 
-## ☁️ [CloudVerse — Cloud Native Microservices Platform](https://www.google.com/search?q=https://github.com/Akash-M21/CloudVerse)
+## ☁️ [CloudVerse — Cloud Native Microservices Platform](https://github.com/Akash-M21/CloudVerse)
 
 A production-style DevOps implementation demonstrating modern cloud-native deployment practices.
 
@@ -75,7 +74,7 @@ A production-style DevOps implementation demonstrating modern cloud-native deplo
 
 ---
 
-## 🔐 [SSH Key Distribution Automation](https://www.google.com/search?q=https://github.com/Akash-M21/ssh-key-distribution)
+## 🔐 [SSH Key Distribution Automation](https://github.com/Akash-M21/ssh-key-distribution)
 
 Python-based automation tool to securely distribute SSH keys across multiple Linux servers.
 
@@ -92,7 +91,7 @@ Python-based automation tool to securely distribute SSH keys across multiple Lin
 
 ---
 
-## 🏗️ [30 Days AWS + Terraform Challenge](https://www.google.com/search?q=https://github.com/Akash-M21/30-days-aws-terraform)
+## 🏗️ [30 Days AWS + Terraform Challenge](https://github.com/Akash-M21/30-days-aws-terraform)
 
 A structured Infrastructure as Code journey focused on building production-ready AWS resources using Terraform.
 
