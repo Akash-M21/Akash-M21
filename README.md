@@ -1,458 +1,224 @@
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=180&section=header&text=AKASH%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="./assets/devops-banner.png" width="100%" alt="AKASH M DevOps Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=80&section=header"/>
 
 # 👋 Hi, I'm AKASH M
 
-### ☁️ Cloud Engineer • DevOps Engineer • Automation Enthusiast
+### Cloud Engineer • DevOps Engineer • Automation Enthusiast
 
-Building scalable cloud infrastructure, automating deployments, and learning in public through real-world AWS and DevOps projects.
+Building cloud infrastructure, automating deployments, and exploring cloud-native technologies through hands-on projects.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash-M21&label=Profile%20Views&color=0F62FE&style=flat"/>
-</p>
+I work with AWS, Terraform, Kubernetes, Docker, Ansible, CI/CD pipelines, monitoring, and automation to build reliable and scalable infrastructure.
 
 </div>
 
 ---
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akash-M21&label=Profile%20Views&color=0F62FE&style=flat"/>
+
+</p>
+
+---
+
 # 🚀 About Me
 
-I am a **Cloud & DevOps Engineer** passionate about designing scalable infrastructure, automating operational workflows, and building reliable cloud-native solutions.
+I am a Cloud & DevOps Engineer passionate about designing scalable infrastructure, automating operational workflows, and improving software delivery processes.
 
-I enjoy working with Infrastructure as Code, container orchestration, CI/CD pipelines, cloud platforms, and automation tools to simplify deployments and improve operational efficiency.
+My learning journey focuses on building real-world solutions using:
 
-I believe in **learning by building**, continuously expanding my skills through hands-on projects that solve real engineering challenges.
+- ☁️ **AWS Cloud Infrastructure**
+- 🏗️ **Infrastructure as Code**
+- ☸️ **Kubernetes & Container Platforms**
+- 🔄 **CI/CD Automation**
+- 🔐 **DevSecOps Practices**
+- 📊 **Monitoring & Observability**
+- 🐧 **Linux Administration**
+- 🤖 **Python & Shell Automation**
+
+I enjoy solving infrastructure challenges, reducing manual operations through automation, and continuously improving engineering workflows.
 
 ---
 
 # 🎯 Current Mission
 
 ```text
-Learn → Build → Automate → Deploy → Monitor → Improve → Repeat
+Learn → Build → Automate → Deploy → Monitor → Improve
+
 ```
 
-My goal is to become a well-rounded Cloud & DevOps Engineer capable of designing, securing, automating, and operating production-grade cloud infrastructure.
+My goal is to become a well-rounded DevOps Engineer capable of designing, automating, securing, and operating production-grade cloud environments.
 
 ---
 
 # 🏆 Featured Projects
 
-## ☁️ CloudVerse — Cloud Native Microservices Platform
+## ☁️ [CloudVerse — Cloud Native Microservices Platform](https://www.google.com/search?q=https://github.com/Akash-M21/CloudVerse)
 
 A production-style DevOps implementation demonstrating modern cloud-native deployment practices.
 
-### Tech Stack
+### Technologies Used
 
-- AWS EKS
-- Terraform
-- Docker
-- Kubernetes
-- Jenkins
-- Helm
-- GitHub Actions
-- JFrog Artifactory
-- Prometheus
-- Grafana
-- SonarQube
-- Trivy
-- Syft
-- Grype
-- Checkov
-- OWASP ZAP
+* AWS EKS • Kubernetes • Docker • Terraform • Jenkins • Helm • JFrog Artifactory • Prometheus • Grafana • Trivy • SonarQube
 
-### Highlights
+### Implemented Highlights:
 
-- Infrastructure provisioning with Terraform
-- Containerized microservices deployment
-- Kubernetes orchestration
-- Automated CI/CD pipelines
-- Container image management
-- Infrastructure monitoring
-- Security scanning integration
+* ✅ Containerized microservices architecture
+* ✅ Kubernetes deployments and ingress configurations
+* ✅ End-to-end CI/CD automation pipelines
+* ✅ Centralized Docker image management
+* ✅ Infrastructure provisioning using Terraform
+* ✅ Production-grade monitoring and observability setup
+* ✅ DevSecOps security scanning integration
 
 ---
 
-## 🔐 SSH Key Distribution Automation
+## 🔐 [SSH Key Distribution Automation](https://www.google.com/search?q=https://github.com/Akash-M21/ssh-key-distribution)
 
-Python automation tool for securely distributing SSH public keys across multiple Linux servers.
+Python-based automation tool to securely distribute SSH keys across multiple Linux servers.
 
-### Features
+### Key Features
 
-- CSV-based inventory
-- Host reachability checks
-- Automated SSH key distribution
-- Success & failure reporting
-- Error handling
-- Python automation
+* CSV-based server inventory management
+* Automated SSH connectivity and health checks
+* Secure SSH key distribution workflow
+* Execution logging and structured error handling
+
+### Technologies
+
+* Python • Linux • SSH • Bash
 
 ---
 
-## ☁️ 30 Days AWS + Terraform Challenge
+## 🏗️ [30 Days AWS + Terraform Challenge](https://www.google.com/search?q=https://github.com/Akash-M21/30-days-aws-terraform)
 
-A structured challenge focused on building AWS infrastructure using Terraform.
+A structured Infrastructure as Code journey focused on building production-ready AWS resources using Terraform.
 
-### Covered
+### Core Concepts Covered:
 
-- IAM
-- EC2
-- VPC
-- Security Groups
-- Route Tables
-- NAT Gateway
-- S3 Backend
-- DynamoDB State Locking
-- Variables & Locals
-- Terraform Modules
-- Terraform Import
-- Remote State Management
+* IAM Automation & Least Privilege Policies
+* EC2 Provisioning & VPC Networking Setup
+* Security Group Isolation & NACLs
+* S3 Remote Backend with DynamoDB State Locking
+* Reusable Terraform Modules, Variables, & Locals
+* State Management (`terraform import`)
 
 ---
 
 # 🛠️ Technology Stack
 
-## ☁️ Cloud
+### ☁️ Cloud Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
-
-### AWS Services
-
-- EC2
-- VPC
-- IAM
-- S3
-- RDS
-- Lambda
-- EKS
-- CloudFront
-- CloudWatch
-- Auto Scaling
-- Load Balancer
-- Route 53
-- Security Groups
-- Network ACLs
-- Route Tables
-- NAT Gateway
-- VPC Peering
-- Transit Gateway
-- AWS CLI
+* **Compute & Network:** EC2, VPC, Subnets, Route Tables, NAT Gateways, VPC Peering, Auto Scaling
+* **Security & Access:** IAM Policies, Security Groups, NACLs
+* **Storage & Services:** S3, RDS, Lambda, EKS, CloudFront, CloudWatch
 
 ---
 
-## 🏗️ Infrastructure as Code
+### 🏗️ Infrastructure as Code
 
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
-</p>
-
-### Terraform
-
-- Providers
-- Variables
-- Locals
-- Modules
-- Outputs
-- State Management
-- Remote Backend
-- S3 Backend
-- DynamoDB Locking
-- Import
-- Resource Provisioning
-
-### Ansible
-
-- Playbooks
-- Roles
-- Inventory
-- Dynamic Inventory
-- Variables
-- Templates (Jinja2)
-- Configuration Management
-- Automation
+* **Terraform:** Providers, Modules, Variables/Locals, Remote S3 Backend, DynamoDB Locking, Import
+* **Ansible:** Playbooks, Roles, Inventory Management, AWS Dynamic Inventories
 
 ---
 
-## ☸️ Containers & Kubernetes
+### ☸️ Containers & Kubernetes
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
-</p>
-
-### Docker
-
-- Dockerfiles
-- Docker Compose
-- Image Optimization
-- Networking
-- Container Lifecycle
-- Docker Registry
-
-### Kubernetes
-
-- Pods
-- Deployments
-- ReplicaSets
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-- Namespaces
-- Labels & Selectors
-- Persistent Volumes
-- Storage Classes
-- EBS CSI Driver
-- Metrics Server
-- Network Policies
-- Helm
-- Amazon EKS
+* **Docker:** Multi-stage Builds, Dockerfile Optimization, Docker Compose, Networking
+* **Kubernetes/EKS:** Pods, Deployments, Services, ConfigMaps, Secrets, Ingress, Helm, Metrics Server, EBS CSI Driver
 
 ---
 
-## 🔄 CI/CD & DevOps
+### 🔄 CI/CD & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins"/>
-</p>
-
-- Git
-- GitHub
-- GitHub Actions
-- Jenkins
-- Jenkins Pipelines
-- AWS CodePipeline
-- AWS CodeBuild
-- Docker Image Automation
-- Kubernetes Deployment Automation
-- Release Automation
+* **Pipeline Automation:** Jenkins (Declarative & Scripted), GitHub Actions, AWS CodePipeline & CodeBuild
+* **Workflows:** Docker Image Building & Publishing, Automated Kubernetes Deployments
 
 ---
 
-## 📦 Artifact Management
+### 📦 Artifact Management & DevSecOps
 
-- JFrog Artifactory
-- Docker Registry
-- Artifact Versioning
-- Image Management
+* **Registries:** JFrog Artifactory, Docker Registry, Image Tagging & Versioning
+* **Security Tools:** Trivy, Syft, Grype, Checkov, OWASP ZAP, Secrets Scanning
 
 ---
 
-## 📊 Monitoring & Observability
+### 📊 Monitoring & Observability
 
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
-</p>
-
-- Prometheus
-- Grafana
-- Infrastructure Monitoring
-- Metrics Collection
-- Dashboard Creation
-- Alerting Concepts
-- Application Observability
+* **Metrics & Dashboards:** Prometheus Scraping, Grafana Dashboards, Infrastructure & Pod Metrics, Alerting Rules
 
 ---
 
-## 🔐 DevSecOps
+### 🐧 Operating Systems & Programming
 
-- Trivy
-- Syft
-- Grype
-- Checkov
-- OWASP ZAP
-- IAM Best Practices
-- Kubernetes Secrets
-- RBAC Concepts
-- Vulnerability Scanning
+* **OS:** Linux Administration (Ubuntu/Debian), Process Management, System Troubleshooting
+* **Scripting:** Bash Scripting, Shell Automation, Python Automation Scripts
 
 ---
 
-## 💻 Programming & Automation
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-</p>
-
-- Python
-- Bash
-- Shell Scripting
-- Linux Automation
-- SSH Automation
-
----
-
-## 🐧 Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux"/>
-</p>
-
-- Linux Administration
-- Ubuntu
-- System Monitoring
-- Networking
-- Process Management
-- File Systems
-- Permissions
-- SSH
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- Amazon RDS
-
----
-
-## 🧰 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
-</p>
-
-- VS Code
-- Git
-- GitHub
-- Linux CLI
-- AWS CLI
+* **Engines:** MySQL, PostgreSQL, MongoDB, Amazon RDS
+* **Operations:** Database Connectivity, Backup Concepts, Security Configurations
 
 ---
 
 # 📈 Learning Roadmap
 
-| Technology | Progress |
-|------------|----------|
-| AWS | ██████████ |
-| Linux | ██████████ |
-| Git & GitHub | ██████████ |
-| Terraform | ██████████ |
-| Docker | ██████████ |
-| Kubernetes | ██████████ |
-| Ansible | █████████░ |
-| Jenkins | ████████░░ |
-| GitHub Actions | ███████░░░ |
-| Helm | ███████░░░ |
-| Monitoring | ███████░░░ |
-| DevSecOps | ███████░░░ |
-| Python Automation | ███████░░░ |
+| Domain | Progress |
+| --- | --- |
+| **AWS Cloud Infrastructure** | ██████████ |
+| **Linux Administration** | ██████████ |
+| **Git & GitHub Workflows** | ██████████ |
+| **Terraform (IaC)** | ██████████ |
+| **Docker & Containerization** | ██████████ |
+| **Kubernetes / EKS** | ██████████ |
+| **Ansible Automation** | █████████░ |
+| **Jenkins CI/CD** | ████████░░ |
+| **Helm Package Manager** | ███████░░░ |
+| **Monitoring (Prometheus/Grafana)** | ███████░░░ |
+| **DevSecOps Integration** | ███████░░░ |
+| **Python Automation** | ███████░░░ |
 
 ---
 
 # 🔥 Currently Exploring
 
-- Advanced Terraform Modules
-- Helm Chart Development
-- Kubernetes Networking
-- GitOps
-- Platform Engineering
-- Cloud Cost Optimization
-- AWS Security Best Practices
-- DevSecOps
-- Infrastructure Monitoring
-- Production CI/CD Design
+* Advanced Terraform Modules & Architecture Patterns
+* Deep-dive Kubernetes Networking & CNI Plugins
+* Production Helm Chart Development
+* GitOps Workflows (ArgoCD / Flux)
+* AWS Security Best Practices & Compliance
+* Cloud Cost Optimization (FinOps)
 
 ---
 
 # ⚙️ Engineering Principles
 
-> Infrastructure should be reproducible.
+> 💡 **Reproducibility:** Infrastructure should always be defined as code.
 
-> Automation should eliminate repetitive work.
+> 🤖 **Automation:** Eliminate repetitive toil wherever possible.
 
-> Security should be built in from the beginning.
+> 🛡️ **Shift-Left Security:** Integrate security checks into early CI/CD stages.
 
-> Monitoring provides confidence in production.
+> 👁️ **Observability:** Visibility through metrics and logging builds confidence.
 
-> Documentation is part of engineering.
+> 📄 **Documentation:** Good code without documentation is incomplete engineering.
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-M21&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-M21&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akash-M21&theme=github-dark&hide_border=true"/>
-
-</p>
+# 🏆 GitHub Achievements
 
 ---
 
-# 📂 Repository Highlights
-
-### ☁️ Cloud Infrastructure
-
-- AWS Labs
-- Terraform Projects
-- Infrastructure as Code
-
-### ☸️ Kubernetes
-
-- Deployments
-- Services
-- Ingress
-- Helm Charts
-
-### 🤖 Automation
-
-- Python Automation
-- Ansible Playbooks
-- Shell Scripting
-
-### 🔄 CI/CD
-
-- Jenkins Pipelines
-- GitHub Actions
-- Deployment Automation
-
-### 📊 Monitoring
-
-- Prometheus
-- Grafana
-- CloudWatch
-
-### 🔐 Security
-
-- Trivy
-- Checkov
-- Syft
-- Grype
+# 📫 Connect With Me
 
 ---
 
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Akash-M21">
-<img src="https://img.shields.io/badge/GitHub-Akash--M21-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Building Cloud Skills One Commit at a Time
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=120&section=footer"/>
-
-</div>
+### 🚀 Building Cloud Infrastructure One Commit at a Time
