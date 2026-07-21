@@ -378,9 +378,9 @@ Experience with:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akash-M21&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash-M21&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-M21&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-M21&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -390,16 +390,13 @@ Experience with:
 
 </p>
 
-
----
-
-
-# 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-M21&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-M21&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
