@@ -458,5 +458,3 @@ Experience with:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=120&section=footer"/>
 
 </div>
-
-This one is good just make sure everything works
