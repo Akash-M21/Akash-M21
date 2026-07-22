@@ -376,21 +376,9 @@ Experience with:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Akash-M21&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Akash's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-M21&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akash-M21&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-M21&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" />
 </p>
 
 ---
